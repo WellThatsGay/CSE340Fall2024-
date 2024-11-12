@@ -1,3 +1,0 @@
-FOLLOW(decl) = { $ }
-FOLLOW(idList) = { colon }
-FOLLOW(idList1) = { colon }

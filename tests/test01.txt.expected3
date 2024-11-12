@@ -1,3 +1,0 @@
-FIRST(decl) = { ID }
-FIRST(idList) = { ID }
-FIRST(idList1) = { COMMA }

@@ -1,4 +1,0 @@
-FIRST(A) = { b }
-FIRST(B) = { d }
-FIRST(C) = { c, e, f }
-FIRST(S) = { k, a }

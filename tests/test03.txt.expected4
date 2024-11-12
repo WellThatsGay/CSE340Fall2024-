@@ -1,4 +1,0 @@
-FOLLOW(S) = { $ }
-FOLLOW(A) = { $, h, b }
-FOLLOW(B) = { $, h, b }
-FOLLOW(C) = { f }
